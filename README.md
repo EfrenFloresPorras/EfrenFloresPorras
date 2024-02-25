@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating Cybersecurity Software and AI.<br>👯 I’m looking to collaborate on any repository to expand my knowledge.<br>🤝 I’m looking for help with learning Finance, Law, and Robot Programming.<br>🌱 I’m currently learning Linux, Haskell, and Full-Stack.<br>💬 Ask me about Rocket Science,  Finance, Math, Sports, and applicational programming<br>⚡ Fun fact, I build model rockets and my team aims to achieve even more!
+🔭 I’m currently working on creating Cybersecurity Software and AI.<br>👯 I’m looking to collaborate on any repository to expand my knowledge.<br>🤝 I’m looking for help with learning Finance, Law, and Robot Programming.<br>🌱 I’m currently learning Linux, Haskell, and Full-Stack.<br>💬 Ask me about Rocket Science,  Finance, Math, Sports, and applicational programming<br>⚡ Fun fact, I love to learn languages and music instruments!
 
 
 ## 🌐 Socials:
