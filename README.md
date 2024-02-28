@@ -1,5 +1,4 @@
-Hi, my name is Efrén <br>
-Engineer in Data Intelligence & Cybersecurity
+Hi, my name is Efrén
 ---------------------------------------------
 
 In my academic journey, I have embarked on obtaining a degree in Engineering Data Intelligence and Cybersecurity with a focus on Cybersecurity with a Major in Law. Additionally, after achieving the previous degree I want to embark on obtaining a degree in Finance or Accounting, with a special focus on quantitative finance or Analytics within this area. <br>Taking on the role of Team Leader and Mentor in Robotics FRC 2283 for the Electrical Engineering department from August 2019 to June 2023, I honed my leadership skills by guiding and imparting knowledge to younger team members. Responsibilities included coordinating and executing tasks efficiently, contributing to the creation of the Electrical Department Manual, and providing practical skills in design, cable management, and the construction of robots. <br>As a Team Leader in Model Rockets Stella Ignis for the Avionics department since August 2022, I continue to apply my leadership skills to guide and mentor team members. This role involves coordination, teamwork, and practical skills in the electrical and mechanical aspects of building model rockets.
