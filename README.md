@@ -36,11 +36,6 @@ src="https://img.shields.io/github/followers/EfrenFloresPorras?logo=github&style
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EfrenFloresPorras&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-### Contributions
-<img src="https://raw.githubusercontent.com/EfrenFloresPorras/EfrenFloresPorras/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 [![](https://visitcount.itsvg.in/api?id=EfrenFloresPorras&icon=0&color=12)](https://visitcount.itsvg.in)
 
