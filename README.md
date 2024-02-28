@@ -1,12 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Efrén
-=============================================================================================================================
-
+Hi My name is Efrén <br>
 Engineer in Data Intelligence & Cybersecurity
 ---------------------------------------------
 
-In my academic journey, I have embarked on obtaining a degree in Engineering Data Intelligence and Cybersecurity with a focus on Cybersecurity with a Major in Law. Additionally, after achieving the previous degree I want to embark on obtaining a degree in Finance or Accounting, with a special focus on quantitative finance or Analytics within this area. Taking on the role of Team Leader and Mentor in Robotics FRC 2283 for the Electrical Engineering department from August 2019 to June 2023, I honed my leadership skills by guiding and imparting knowledge to younger team members. Responsibilities included coordinating and executing tasks efficiently, contributing to the creation of the Electrical Department Manual, and providing practical skills in design, cable management, and the construction of robots. As a Team Leader in Model Rockets Stella Ignis for the Avionics department since August 2022, I continue to apply my leadership skills to guide and mentor team members. This role involves coordination, teamwork, and practical skills in the electrical and mechanical aspects of building model rockets.
+In my academic journey, I have embarked on obtaining a degree in Engineering Data Intelligence and Cybersecurity with a focus on Cybersecurity with a Major in Law. Additionally, after achieving the previous degree I want to embark on obtaining a degree in Finance or Accounting, with a special focus on quantitative finance or Analytics within this area. <br>Taking on the role of Team Leader and Mentor in Robotics FRC 2283 for the Electrical Engineering department from August 2019 to June 2023, I honed my leadership skills by guiding and imparting knowledge to younger team members. Responsibilities included coordinating and executing tasks efficiently, contributing to the creation of the Electrical Department Manual, and providing practical skills in design, cable management, and the construction of robots. <br>As a Team Leader in Model Rockets Stella Ignis for the Avionics department since August 2022, I continue to apply my leadership skills to guide and mentor team members. This role involves coordination, teamwork, and practical skills in the electrical and mechanical aspects of building model rockets.
 # 💫 About Me:
-✉️  You can contact me at [efrenfloresp@gmail.com](mailto:efrenfloresp@gmail.com).<br>🔭 I’m currently working on creating Cybersecurity Software and AI.<br>👯 I’m looking to collaborate on any repository to expand my knowledge.<br>🤝 I’m looking for help with learning Finance, Law, and Robot Programming.<br>🌱 I’m currently learning Linux, Haskell, and Full-Stack.<br>💬 Ask me about Rocket Science,  Finance, Math, Sports, and applicational programming<br>⚡ Fun fact, I love to learn languages and musical instruments!
+✉️  You can contact me at [efrenfloresp@gmail.com](mailto:efrenfloresp@gmail.com).<br>🔭 I’m currently working on creating Cybersecurity Software and AI.<br>👯 I’m looking to collaborate on any repository to expand my knowledge.<br>🤝 I’m looking for help with learning Finance, Law, and Robot Programming.<br>🌱 I’m currently learning Linux, Haskell, and Functional Programming.<br>💬 Ask me about Rocket Science,  Finance, Math, Sports, and applicational programming<br>⚡ Fun fact, I love to learn languages and musical instruments!
 
 <a href="https://www.github.com/EfrenFloresPorras" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/EfrenFloresPorras?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -27,9 +25,10 @@ src="https://img.shields.io/github/followers/EfrenFloresPorras?logo=github&style
 
 <a href="http://www.github.com/EfrenFloresPorras"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrenFloresPorras&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/EfrenFloresPorras"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=EfrenFloresPorras&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/EfrenFloresPorras" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenFloresPorras&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Spotify Tops
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=efren3023)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -37,7 +36,14 @@ src="https://img.shields.io/github/followers/EfrenFloresPorras?logo=github&style
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EfrenFloresPorras&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
+### Contributions
+<img src="https://raw.githubusercontent.com/EfrenFloresPorras/EfrenFloresPorras/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=EfrenFloresPorras&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
