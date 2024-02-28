@@ -1,4 +1,4 @@
-Hi My name is Efrén <br>
+Hi, my name is Efrén <br>
 Engineer in Data Intelligence & Cybersecurity
 ---------------------------------------------
 
