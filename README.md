@@ -19,6 +19,7 @@ src="https://img.shields.io/github/followers/EfrenFloresPorras?logo=github&style
 
 <!--START_SECTION:waka-->
 
+<figure><embed src="https://wakatime.com/share/@c4da7f8c-1aa7-421d-ad3f-b781d77d4508/ea6b3bb4-0d08-4c00-9b2e-236b82c72cbf.svg"></embed></figure>
 
 <!--END_SECTION:waka-->
 
