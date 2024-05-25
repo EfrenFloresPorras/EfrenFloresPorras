@@ -26,12 +26,25 @@ src="https://img.shields.io/github/followers/EfrenFloresPorras?logo=github&style
 ### Spotify Tops
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=efren3023)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EfrenFloresPorras&limit=5&theme=nord&combine_all_yearly_contributions=true)
+### 🔝 Analytics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efrenfloresporras&show_icons=true&locale=en&layout=compact" alt="efrenfloresporras" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efrenfloresporras&show_icons=true&locale=en" alt="efrenfloresporras" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efrenfloresporras&" alt="efrenfloresporras" /></p>
+
+<div> <a href="https://github.com/EfrenFloresPorras" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/EfrenFloresPorras">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EfrenFloresPorras&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EfrenFloresPorras&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EfrenFloresPorras&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EfrenFloresPorras&theme=apprentice" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EfrenFloresPorras&theme=apprentice" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=EfrenFloresPorras&theme=gruvbox"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EfrenFloresPorras&icon=0&color=12)](https://visitcount.itsvg.in)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
