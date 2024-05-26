@@ -16,7 +16,13 @@ In my academic journey, I have embarked on obtaining a degree in Engineering Dat
 
 <!--START_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@c4da7f8c-1aa7-421d-ad3f-b781d77d4508/ea6b3bb4-0d08-4c00-9b2e-236b82c72cbf.svg"></embed></figure>
+```rust
+From: 25 May 2024 - To: 25 May 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
