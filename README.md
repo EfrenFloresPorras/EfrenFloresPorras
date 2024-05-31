@@ -17,13 +17,13 @@ In my academic journey, I have embarked on obtaining a degree in Engineering Dat
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2024 - To: 28 May 2024
+From: 25 May 2024 - To: 29 May 2024
 
-Total Time: 3 hrs 42 mins
+Total Time: 5 hrs 7 mins
 
-Python       3 hrs 39 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.61 %
-Text         2 mins          -------------------------   01.34 %
-Git Config   0 secs          -------------------------   00.05 %
+Python       5 hrs 3 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   98.65 %
+Text         2 mins          -------------------------   00.97 %
+Other        1 min           -------------------------   00.35 %
 ```
 
 <!--END_SECTION:waka-->
