@@ -39,4 +39,4 @@ Other        1 min           -------------------------   00.08 %
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=efren3023)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EfrenFloresPorras&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=EfrenFloresPorras&icon=0&color=12&width=600&unique=true)](https://visitcount.itsvg.in)
