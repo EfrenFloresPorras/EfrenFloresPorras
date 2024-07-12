@@ -17,19 +17,19 @@ In my academic journey, I have embarked on obtaining a degree in Engineering Dat
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2024 - To: 09 July 2024
+From: 25 May 2024 - To: 10 July 2024
 
-Total Time: 42 hrs 26 mins
+Total Time: 45 hrs 9 mins
 
-HTML         15 hrs 28 mins  >>>>>>>>>----------------   36.43 %
-CSS          8 hrs 44 mins   >>>>>--------------------   20.56 %
-PHP          6 hrs 48 mins   >>>>---------------------   16.05 %
-Python       5 hrs 45 mins   >>>----------------------   13.57 %
-JavaScript   4 hrs 54 mins   >>>----------------------   11.55 %
-JSON         30 mins         -------------------------   01.18 %
-Markdown     4 mins          -------------------------   00.19 %
-Text         3 mins          -------------------------   00.13 %
-CSV          2 mins          -------------------------   00.11 %
+HTML         16 hrs 18 mins  >>>>>>>>>----------------   36.10 %
+CSS          8 hrs 44 mins   >>>>>--------------------   19.33 %
+PHP          8 hrs 5 mins    >>>>---------------------   17.89 %
+Python       5 hrs 45 mins   >>>----------------------   12.75 %
+JavaScript   5 hrs 30 mins   >>>----------------------   12.20 %
+JSON         30 mins         -------------------------   01.11 %
+Markdown     4 mins          -------------------------   00.18 %
+Text         3 mins          -------------------------   00.12 %
+CSV          2 mins          -------------------------   00.10 %
 Other        1 min           -------------------------   00.07 %
 ```
 
