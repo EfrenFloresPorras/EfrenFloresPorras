@@ -17,18 +17,18 @@ In my academic journey, I'm aspiring to obtain a degree in Engineering Data Inte
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2024 - To: 29 January 2025
+From: 25 May 2024 - To: 30 January 2025
 
-Total Time: 165 hrs 22 mins
+Total Time: 167 hrs 5 mins
 
-Markdown     63 hrs 6 mins   >>>>>>>>>>---------------   38.11 %
-Python       35 hrs 20 mins  >>>>>--------------------   21.34 %
-JavaScript   18 hrs 39 mins  >>>----------------------   11.27 %
-HTML         17 hrs 4 mins   >>>----------------------   10.31 %
-PHP          17 hrs 1 min    >>>----------------------   10.28 %
-CSS          10 hrs 7 mins   >>-----------------------   06.12 %
+Markdown     63 hrs 22 mins  >>>>>>>>>----------------   37.88 %
+Python       36 hrs 46 mins  >>>>>--------------------   21.98 %
+JavaScript   18 hrs 39 mins  >>>----------------------   11.15 %
+HTML         17 hrs 4 mins   >>>----------------------   10.21 %
+PHP          17 hrs 1 min    >>>----------------------   10.18 %
+CSS          10 hrs 7 mins   >>-----------------------   06.05 %
 C++          1 hr 30 mins    -------------------------   00.91 %
-Text         30 mins         -------------------------   00.31 %
+Text         30 mins         -------------------------   00.30 %
 Git Config   25 mins         -------------------------   00.25 %
 ```
 
