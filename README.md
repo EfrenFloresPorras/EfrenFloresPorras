@@ -17,20 +17,20 @@ In my academic journey, I'm aspiring to obtain a degree in Engineering Data Inte
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2024 - To: 24 November 2025
+From: 25 May 2024 - To: 25 November 2025
 
-Total Time: 234 hrs 29 mins
+Total Time: 236 hrs 4 mins
 
-Markdown                           87 hrs 31 mins  >>>>>>>>>----------------   37.08 %
-Python                             46 hrs 48 mins  >>>>>--------------------   19.84 %
-JavaScript                         25 hrs 19 mins  >>>----------------------   10.73 %
-HTML                               17 hrs 19 mins  >>-----------------------   07.34 %
-C++                                17 hrs 14 mins  >>-----------------------   07.30 %
-PHP                                17 hrs 1 min    >>-----------------------   07.21 %
-CSS                                10 hrs 8 mins   >------------------------   04.30 %
-Go                                 2 hrs 9 mins    -------------------------   00.91 %
-Text                               2 hrs 1 min     -------------------------   00.86 %
-Other                              1 hr 30 mins    -------------------------   00.64 %
+Markdown                           87 hrs 31 mins  >>>>>>>>>----------------   36.84 %
+Python                             46 hrs 49 mins  >>>>>--------------------   19.71 %
+JavaScript                         25 hrs 19 mins  >>>----------------------   10.66 %
+HTML                               17 hrs 19 mins  >>-----------------------   07.29 %
+C++                                17 hrs 14 mins  >>-----------------------   07.25 %
+PHP                                17 hrs 1 min    >>-----------------------   07.17 %
+CSS                                10 hrs 8 mins   >------------------------   04.27 %
+Go                                 2 hrs 42 mins   -------------------------   01.14 %
+Text                               2 hrs 24 mins   -------------------------   01.01 %
+Other                              1 hr 30 mins    -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
