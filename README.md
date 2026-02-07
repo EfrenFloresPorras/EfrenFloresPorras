@@ -17,7 +17,7 @@ In my academic journey, I'm aspiring to obtain a degree in Engineering Data Inte
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2024 - To: 04 February 2026
+From: 25 May 2024 - To: 05 February 2026
 
 Total Time: 251 hrs 17 mins
 
