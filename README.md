@@ -1,9 +1,13 @@
 Hi, my name is Efrén
 ---------------------------------------------
 
-In my academic journey, I'm aspiring to obtain a degree in Engineering Data Intelligence and Cybersecurity with a major in Data Science. Additionally, while achieving the previous degree I want to embark on obtaining a degree or certificate in Cybersecurity to start my path in said expertise. <br>Taking on the role of Team Leader and Mentor in Robotics FRC 2283 and for STELLA IGNIS Rocketry for the Electrical Engineering and Avionics department, I honed my leadership skills by guiding and imparting knowledge to younger team members. Responsibilities included coordinating and executing tasks efficiently, contributing to building the department manuals, and providing practical skills in design, cable management, and the construction of said projects.
-# 💫 About Me:
-✉️  You can contact me at [efrenfloresp@gmail.com](mailto:efrenfloresp@gmail.com).<br>🔭 I’m currently working on creating Cybersecurity Software and AI.<br>👯 I’m looking to collaborate on any repository to expand my knowledge.<br>🤝 I’m looking for help with learning Finance, Cybersecurity, and Robot Programming.<br>🌱 I’m currently learning Linux, Hacking, and Functional Programming.<br>💬 Ask me about Rocket Science,  Finance, Math, Sports, and applicational programming<br>⚡ Fun fact, I love to learn languages and musical instruments!
+I am a last-year engineering student in Cybersecurity and AI, studying a Master's in Operations Management. I focus on constantly learning to bring out the best in me.
+
+I am seeking ambitious people with whom I can work, learn, and support one another. I aspire to obtain a Master's degree in Cybersecurity, gaining a deeper understanding of how to improve the relationship between technical know-how and the decision-making process.
+
+Multilingual Communication: Fluent in Spanish and English, able to interchange between both languages. 
+
+Currently, I will be putting myself forward to learn Cybersecurity and Compliance, Business Management, and Operations.
 
 ### Socials
 
