@@ -21,19 +21,19 @@ Currently, I will be putting myself forward to learn Cybersecurity and Complianc
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2024 - To: 23 April 2026
+From: 25 May 2024 - To: 24 April 2026
 
-Total Time: 261 hrs 19 mins
+Total Time: 263 hrs 38 mins
 
-Markdown                           110 hrs 18 mins       >>>>>>>>>>---------------   41.97 %
-Python                             47 hrs 43 mins        >>>>>--------------------   18.16 %
-JavaScript                         25 hrs 20 mins        >>-----------------------   09.64 %
-HTML                               17 hrs 22 mins        >>-----------------------   06.61 %
-C++                                17 hrs 19 mins        >>-----------------------   06.59 %
-PHP                                17 hrs 1 min          >>-----------------------   06.48 %
-CSS                                10 hrs 8 mins         >------------------------   03.86 %
-Go                                 3 hrs 5 mins          -------------------------   01.17 %
-Text                               2 hrs 26 mins         -------------------------   00.93 %
+Markdown                           112 hrs 38 mins       >>>>>>>>>>>--------------   42.48 %
+Python                             47 hrs 43 mins        >>>>>--------------------   18.00 %
+JavaScript                         25 hrs 20 mins        >>-----------------------   09.56 %
+HTML                               17 hrs 22 mins        >>-----------------------   06.55 %
+C++                                17 hrs 19 mins        >>-----------------------   06.53 %
+PHP                                17 hrs 1 min          >>-----------------------   06.42 %
+CSS                                10 hrs 8 mins         >------------------------   03.82 %
+Go                                 3 hrs 5 mins          -------------------------   01.16 %
+Text                               2 hrs 26 mins         -------------------------   00.92 %
 Other                              1 hr 30 mins          -------------------------   00.57 %
 ```
 
