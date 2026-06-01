@@ -21,7 +21,7 @@ Currently, I will be putting myself forward to learn Cybersecurity and Complianc
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2024 - To: 29 May 2026
+From: 25 May 2024 - To: 30 May 2026
 
 Total Time: 267 hrs 38 mins
 
