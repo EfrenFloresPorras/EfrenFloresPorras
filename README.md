@@ -21,17 +21,17 @@ Currently, I will be putting myself forward to learn Cybersecurity and Complianc
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2024 - To: 10 July 2026
+From: 25 May 2024 - To: 11 July 2026
 
-Total Time: 271 hrs 45 mins
+Total Time: 272 hrs 15 mins
 
-Markdown                           120 hrs 33 mins       >>>>>>>>>>>--------------   44.12 %
-Python                             47 hrs 54 mins        >>>>---------------------   17.53 %
-JavaScript                         25 hrs 20 mins        >>-----------------------   09.28 %
-HTML                               17 hrs 22 mins        >>-----------------------   06.36 %
-C++                                17 hrs 19 mins        >>-----------------------   06.34 %
-PHP                                17 hrs 1 min          >>-----------------------   06.23 %
-CSS                                10 hrs 8 mins         >------------------------   03.71 %
+Markdown                           121 hrs 3 mins        >>>>>>>>>>>--------------   44.22 %
+Python                             47 hrs 54 mins        >>>>---------------------   17.50 %
+JavaScript                         25 hrs 20 mins        >>-----------------------   09.26 %
+HTML                               17 hrs 22 mins        >>-----------------------   06.35 %
+C++                                17 hrs 19 mins        >>-----------------------   06.33 %
+PHP                                17 hrs 1 min          >>-----------------------   06.22 %
+CSS                                10 hrs 8 mins         >------------------------   03.70 %
 Go                                 3 hrs 5 mins          -------------------------   01.13 %
 Text                               2 hrs 26 mins         -------------------------   00.89 %
 Other                              1 hr 30 mins          -------------------------   00.55 %
